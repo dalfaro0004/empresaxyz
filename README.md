@@ -12,7 +12,7 @@
   - [3.2. Resumen de las tareas](#32-resumen-de-las-tareas)
   - [3.3. Desarrollo](#33-desarrollo)
 - [4. Envío](#4-envío)
-- [5. Material de apoyo](#material-de-apoyo)
+- [5. Material de apoyo](#5-material-de-apoyo)
 
 ## Para Ayudarte
 
@@ -53,7 +53,6 @@ Para poder realizar este desafío, se deben cumplir con los siguientes requisito
 3. Crear documentos en formato JSON con la forma especificada en el númeral [4.3](#43-desarrollo)
 4. Crear una colleción nueva en Watson Discovery y hacer upload de sus documentos
 5. Entrenar un modelo de relevancia con _queries_ en Watson Discovery basado en los documentos previstos
-6. Accede a la página https://Empresa XYZ.maratona.dev, prueba y envia tu solución.
 
 ### 3.3. Desarrollo
 
@@ -203,8 +202,8 @@ Mira el [video explicativo](#31-tecnología) provisto en la Sección 3, o si lo 
 
 ## Licencia
 
-Copyright 2020 Maratona Behind the Code
-Copyright 2021 IBM Peru
+- Copyright 2020 Maratona Behind the Code
+- Copyright 2021 IBM Peru
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
