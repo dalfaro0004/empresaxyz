@@ -69,8 +69,6 @@ Durante el desafío, enfrentará dos problemas comunes para un científico de da
 - https://desarrolloweb.com/articulos/servicios-angular.html
 - https://desarrolloweb.com/articulos/trabajar-modulos-angular.html
 - https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java
-- https://experto.dev/patron-de-diseno-java-singleton/
-- https://experto.dev/patron-de-diseno-strategy-en-java/
 
 
 A partir de estas URLs (_exclusivamente_), pedimos que cree documentos JSON con las siguientes claves y valores:
