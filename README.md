@@ -2,21 +2,20 @@
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
 [![](https://img.shields.io/discord/734849667174498465?logo=discord)](https://discord.gg/Q9At74C)
 
-# Desafio 05  | Empresa XYZ
+# Desafio Future Club Peru 2021  | Empresa XYZ
 
-- [1. Reto de negocio](#2-reto-de-negocio)
-- [2. Objetivo](#3-objetivo)
-  - [2.1. Tecnología](#31-tecnología)
-- [3. Desarrollando la solución](#4-desarrollando-la-solución)
-  - [3.1. Pre-requisitos](#41-pre-requisitos)
-  - [3.2. Resumen de las tareas](#42-resumen-de-las-tareas)
-  - [3.3. Desarrollo](#43-desarrollo)
-- [4. Envío](#5-envío)
-- [5. Sobre la evaluación](#6-sobre-la-evaluación)
+- [1. Reto de negocio](#1-reto-de-negocio)
+- [2. Objetivo](#2-objetivo)
+  - [2.1. Tecnología](#21-tecnología)
+- [3. Desarrollando la solución](#3-desarrollando-la-solución)
+  - [3.1. Pre-requisitos](#31-pre-requisitos)
+  - [3.2. Resumen de las tareas](#32-resumen-de-las-tareas)
+  - [3.3. Desarrollo](#33-desarrollo)
+- [4. Envío](#4-envío)
+- [5. Material de apoyo](#material-de-apoyo)
 
 ## Para Ayudarte
 
-- [Material de apoyo](#material-de-apoyo)
 - [Solución de problemas](#solución-de-problemas)
 - [Licencia](#licencia)
 
@@ -39,22 +38,13 @@ La idea principal del reto es entrenar una colección con documentos acerca de A
 
 [Watson Discovery](https://cloud.ibm.com/catalog/services/discovery) es un motor de análisis de contenido y búsqueda cognitiva a las aplicaciones para identificar patrones, tendencias e información útil que impulse una mejor toma de decisiones. Unifica de forma segura datos estructurados y no estructurados con contenido enriquecido y utiliza un lenguaje de consulta simplificado para eliminar la necesidad de filtrar manualmente los resultados.
 
-
-<div align="center">
-    <a href="https://youtu.be/rNlGm26k95o">
-       <img width="50%" src="./doc/source/images/THUMB-TUTORIAL-5-ES.png" alt='video'>
-    </a>
-</div>
-
-
 ## 3. Desarrollando la solución
 
 ### 3.1. Pre-requisitos
 
 Para poder realizar este desafío, se deben cumplir con los siguientes requisitos previos:
 
-- Regístrate en [Maratón Behind the Code](https://maratona.dev/es) y confirma tu e-mail de registro.
-- Tener una cuenta en [IBM Cloud](https://ibm.biz/registro-maratona), que puede ser una cuenta GRATUITA o de pago (no es necesario registrarse en el evento con el mismo correo electrónico utilizado para crear tu cuenta IBM Cloud).
+- Tener una cuenta en [IBM Cloud](https://cloud.ibm.com/catalog/services/watson-assistant), que puede ser una cuenta GRATUITA o de pago.
 
 ### 3.2. Resumen de las tareas
 
@@ -185,29 +175,24 @@ Su modelo de relevancia debe tener al menos **50 _queries_** entrenadas, cada un
 
 ## 4. Envío
 
-Para realizar el envío, primero debe acceder a la siguiente aplicación: https://Empresa XYZ.maratona.dev/ y completar el formulario con las credenciales de su instancia de **Watson Discovery** y los **IDs** de su colección. En esta página podrá probar su modelo antes de enviarlo.
+A más tardar el jueves 22 se deberá compartir vía box (https://ibm.ent.box.com/f/c073867c04ce495aab33e6efd79582d7) un video de la aplicación funcionando. Este video no deberá tomar más de 5 minutos.
 
-🚨 **PRUEBA TU SOLUCIÓN ANTES DE PRESENTARLA** 🚨
+Requisitos del video:
 
-Después de realizar las pruebas, haga clic en el botón en la esquina inferior derecha para ENVIAR su solución, como se muestra en la imagen a continuación, y complete el formulario con su dirección de correo electrónico utilizada para la inscripción en MARATONA 2020.
+- Mostrar uso de la tecnología IBM Cloud (Watson Discovery y Watson Assistant)
+- Mostrar la secuencia de una entrevista en la aplicación desarrollada
 
-Credenciales:
-<img align='center' src="./doc/source/images/Empresa XYZ_CREDS.png" alt="submissão"></img>
-Enviar:
-<img align='center' src="./doc/source/images/Empresa XYZ_SEND.png" alt="submissão"></img>
+## 5. Material de apoyo
 
-
-## 5. Sobre la evaluación
-
-Nuestro sistema de evaluación automática realizará consultas para su modelo y analizará si las respuestas obtenidas son consistentes con los documentos esperados. Los documentos de su solución **deben** contener las claves con los nombres especificados aquí, `body`, `title`, `url`, con sus respectivos valores, para que la validación sea exitosa.
-
-La rapidez de entrega no se incluye en el cálculo de la puntuación del desafío. Sin embargo, para todos los participantes que presenten este desafío en la primera semana después del lanzamiento, recibirán una bonificación del 10% de la puntuación final.
-
-Recuerde que tiene 3 oportunidades de envío de la solución del reto donde se le tomará en cuenta el envío que obtenga mejor puntuación.
-
-## Material de apoyo
+<div align="center">
+    <a href="https://youtu.be/rNlGm26k95o">
+       <img width="50%" src="./doc/source/images/THUMB-TUTORIAL-5-ES.png" alt='video'>
+    </a>
+</div>
 
 - [Watson Discovery Docs](https://cloud.ibm.com/docs/discovery?topic=discovery-about)
+- [Build Your Own Chatbots](https://cognitiveclass.ai/courses/chatbot-course)
+- [Acerca de Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-index)
 
 ## Solución de problemas
 
@@ -216,12 +201,10 @@ Mira el [video explicativo](#31-tecnología) provisto en la Sección 3, o si lo 
 > Situación común: El reentrenamiento del modelo de relevancia puede durar un largo tiempo en reactivarse.
 > Situación común: Si presenta algún error en el entrenamiento de relevacia, corrija los errores que le sugiere la erramienta. El sistema comenzará a entrenar despúes de un tiempo largo.
 
-
-Accede al discord oficial de la Maratón 2020 para hacer preguntas y/o interactuar con otros participantes: [Discord](https://discord.gg/Q9At74C).
-
 ## Licencia
 
 Copyright 2020 Maratona Behind the Code
+Copyright 2021 IBM Peru
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
