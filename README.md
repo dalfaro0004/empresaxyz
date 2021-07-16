@@ -181,15 +181,11 @@ Requisitos del video:
 
 ## 5. Material de apoyo
 
-<div align="center">
-    <a href="https://youtu.be/rNlGm26k95o">
-       <img width="50%" src="./doc/source/images/THUMB-TUTORIAL-5-ES.png" alt='video'>
-    </a>
-</div>
-
+- (https://youtu.be/rNlGm26k95o)
 - [Watson Discovery Docs](https://cloud.ibm.com/docs/discovery?topic=discovery-about)
 - [Build Your Own Chatbots](https://cognitiveclass.ai/courses/chatbot-course)
 - [Acerca de Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-index)
+- [Code Engine Resources](https://www.ibm.com/cloud/code-engine/resources)
 
 ## Solución de problemas
 
