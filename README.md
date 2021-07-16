@@ -181,11 +181,11 @@ Requisitos del video:
 
 ## 5. Material de apoyo
 
-- (https://youtu.be/rNlGm26k95o)
 - [Watson Discovery Docs](https://cloud.ibm.com/docs/discovery?topic=discovery-about)
 - [Build Your Own Chatbots](https://cognitiveclass.ai/courses/chatbot-course)
 - [Acerca de Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-index)
 - [Code Engine Resources](https://www.ibm.com/cloud/code-engine/resources)
+- https://youtu.be/rNlGm26k95o
 
 ## Solución de problemas
 
